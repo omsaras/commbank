@@ -1,0 +1,3 @@
+This is a home file and user will see main content here.
+Rest of the website will display other major things
+
