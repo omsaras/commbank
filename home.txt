@@ -1,3 +1,3 @@
-This is a home file and user will see main content here.
-Rest of the website will display other major things
+
+This is a new file and the content of this file is different to the file in master branch
 
